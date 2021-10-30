@@ -1,1 +1,1 @@
-Este es el documento 1
+Este es un nuevo mensaje dentro del archivo 1
